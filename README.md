@@ -31,7 +31,7 @@ Proje dosyaları içinde bağımlılıkların nasıl eklenip yapılandırılaca�
 ## Ekran Görüntüleri
 
   ![image](https://github.com/Adl1coder/NavigationComponentUsage/assets/93915867/40ee60ac-1542-4ba2-aef7-2dd25dc72cd6)
-![image](https://github.com/Adl1coder/NavigationComponentUsage/assets/93915867/7004337f-a7a8-4294-85ba-37f9c0059c96)
+  ![image](https://github.com/Adl1coder/NavigationComponentUsage/assets/93915867/7004337f-a7a8-4294-85ba-37f9c0059c96)
   ![image](https://github.com/Adl1coder/NavigationComponentUsage/assets/93915867/93cf47bf-068f-4b60-a75e-93494f053e82)
   ![image](https://github.com/Adl1coder/NavigationComponentUsage/assets/93915867/ac925429-2951-4c8f-84ee-23ef20903f03)
 
